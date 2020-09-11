@@ -1,0 +1,25 @@
+{
+  "name": "compversions",
+  "version": "0.1.0",
+  "description": "Compares your package.json to your package-lock.json to let you see packages that resolved to different versions.",
+  "engines": {
+    "node": ">=10"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/belav/compversions"
+  },
+  "keywords": [
+    "package.json",
+    "package-lock.json",
+    "compare",
+    "versions"
+  ],
+  "author": "Bela VanderVoort",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/belav/compversions/issues"
+  }
+}
