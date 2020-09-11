@@ -1,1 +1,2 @@
-# compare-package-json
+# Installation
+npm install -g compversions
